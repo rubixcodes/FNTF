@@ -1,0 +1,65 @@
+
+.navbarlogo {
+    padding-left: 50px;
+}
+.navbts{
+    padding-right: 50px;
+}
+
+.navbts button {
+    font-size: x-small;
+    padding: 5px 15px;
+}
+
+.navbar {
+    background-color: rgb(249, 255, 255);
+}
+
+.navbar2 {
+    background: rgb(69,69,69);
+    background: linear-gradient(90deg, rgba(69,69,69,1) 0%, rgba(105,105,105,1) 35%, rgba(171,169,169,1) 100%);
+    color: white;
+}
+
+.navbar2 p {
+    margin: 0 0 0 45%;
+}
+
+.intro-img img {
+    position: absolute;
+    left: 55%;
+    width: 45%;
+    height: 89%;
+    z-index: -1;
+}
+
+.footer {
+    position: relative;
+    top: 250px;
+    background-color: white;
+    /* padding: 10px; */
+    text-align: center;
+    z-index: 1;
+}
+
+.header {
+    position: relative;
+    z-index: 1;
+    margin: 10%;
+}
+
+.rowimg {
+    width: 100%;
+}
+
+.rowimg3 {
+    width: 82%;
+}
+
+.row-property {
+    padding: 50px;
+}
+
+.colpad {
+    padding-right: 80px;
+}
